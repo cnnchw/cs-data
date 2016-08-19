@@ -3,3 +3,6 @@
 
 #Temp files will all end in underscore before filetype
 *_.py
+
+#can ignore this directory, it exists for historical purposes only
+deprecated_code/
