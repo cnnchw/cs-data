@@ -1,0 +1,5 @@
+# Perl begone
+*.pl
+
+#Temp files will all end in underscore before filetype
+*_.py
